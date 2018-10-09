@@ -52,5 +52,10 @@ Regular Gameplay:
 ![alt text](https://github.com/ChinoB/IGME-230/blob/master/gameplay%20screenshot.png "Regular Gameplay")
 
 ## About the Developer
-Chino Barcelona, Game Design and Development
+Chino Barcelona, 2nd year studying Game Design and Development
 
+### Skills
+C#, html, css, unity
+
+### Interests
+Pokemon, some gacha games, game soundtracks, coding
