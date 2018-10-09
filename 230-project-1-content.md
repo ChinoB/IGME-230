@@ -34,7 +34,9 @@ However, this can only be used once per 30 seconds.
 
 ### Controls
 Arrow keys to move
+
 Space to jump
+
 Left click to attack
 
 **The player will learn the controls before starting the game.**
