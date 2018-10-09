@@ -19,7 +19,7 @@ This leaves the clean parts of Earth unprotected and mother nature pleads for he
 Vector/Pixelated Graphics
 Techno Sound
 Aside from background music, there will be sounds when the player executes any of the following actions:
-Jump, attack, kill an enemy, gets hit, heals themself, and when they die.
+Jumping, attacking, killing an enemy, getting hit, healing themself, dying.
 
 ## Gameplay
 ### Mechanics
