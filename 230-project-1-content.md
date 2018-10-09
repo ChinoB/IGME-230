@@ -37,7 +37,7 @@ Arrow keys to move
 Space to jump
 Left click to attack
 
-*The player will learn the controls before starting the game*
+*The player will learn the controls before starting the game.*
 
 ### Depth
 Throughout the game, the player is expected to get used to timing their attacks correctly, 
