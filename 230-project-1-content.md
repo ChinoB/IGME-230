@@ -42,6 +42,7 @@ Left click to attack
 ### Depth
 Throughout the game, the player is expected to get used to timing their attacks correctly, 
 as the enemies start to spawn faster and well timed attacks do more damage.
+
 **A well timed attack will be shown after the 1st 10 enemies have been killed**
 
 ## Screenshots
