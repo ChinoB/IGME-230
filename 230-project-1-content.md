@@ -13,7 +13,7 @@ Desktop only
 ## Story
 In the year 3829, the world is mostly polluted, with a few parts clean and beautiful. 
 Mother nature has been protecting these parts since 3091. Suddenly, many monsters appear and start to attack mother nature.
-This leaves the clean parts of Earth unportected and mother nature pleads for help. Only you are able to help save mother nature.
+This leaves the clean parts of Earth unprotected and mother nature pleads for help. Only you are able to help save mother nature.
 
 ## Esthetics
 Vector/Pixelated Graphics
